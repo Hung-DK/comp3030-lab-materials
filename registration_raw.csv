@@ -1,0 +1,9 @@
+student_id,student_name,student_phones,major_code,major_name,course_id,course_title,credits,semester,instructor_id,instructor_name,instructor_office,grade
+S01,Nguyen An,"9,011,111,110,902,220,000",CS,Computer Science,CS101,Intro to Programming,3,2026S1,I01,Tran Binh,B-201,A
+S01,Nguyen An,"9,011,111,110,902,220,000",CS,Computer Science,DB201,Database Systems,4,2026S1,I02,Le Chi,B-305,B+
+S02,Pham Dung,0913333333,DS,Data Science,DB201,Database Systems,4,2026S1,I02,Le Chi,B-305,A-
+S02,Pham Dung,0913333333,DS,Data Science,MA201,Linear Algebra,3,2026S1,I03,Hoang Em,C-110,B
+S03,Vu Giang,"9,244,444,440,935,550,000",CS,Computer Science,CS101,Intro to Programming,3,2026S1,I01,Tran Binh,B-201,B
+S03,Vu Giang,"9,244,444,440,935,550,000",CS,Computer Science,DB201,Database Systems,4,2026S2,I04,Do Hanh,B-306,A
+S04,Bui Khanh,,DS,Data Science,MA201,Linear Algebra,3,2026S1,I03,Hoang Em,C-110,A
+S04,Bui Khanh,,DS,Data Science,DB201,Database Systems,4,2026S1,I02,Le Chi,B-305,C
